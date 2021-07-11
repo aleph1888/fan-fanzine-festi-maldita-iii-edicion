@@ -17,6 +17,7 @@ Sin palabras, sorry.
 
 
 
+
 ## **Día 11. Nº 2: "__Vida Extra__"**
 - **Reseña**: 
 `
@@ -36,7 +37,6 @@ Fue Prometeo, en un cierto contexto, el primero en robarle el fuego a los Dioses
 
 - **Opta a premios**: Chris Marker. ¿Chicho? Con toques de Svankmajer.
 - ![](dia11/0707213.png)
-
 
 
 ## **Día 11. Nº 4: "__Una sinfonía por la noche__"**
