@@ -12,7 +12,7 @@ Todos los comentarios son a título personal y no hay relación otra que de fan-
 El FeO ha subido las pistas de vídeo a Osysee:
 
 - [Presentación del Festival de Cortos y del calendario](https://odysee.com/@FilmotecaMaldita:c/presentaci%C3%B3n-del-festival-de-cortos-y:4)
-- [Festival de Cortos Día 1 Ft Jordi Maquiavello]](https://odysee.com/@FilmotecaMaldita:c/Festival-de-Cortos-Día-1-Ft-Jordi-Maquiavello:0?)
+- [Festival de Cortos Día 1 Ft Jordi Maquiavello](https://odysee.com/@FilmotecaMaldita:c/Festival-de-Cortos-Día-1-Ft-Jordi-Maquiavello:0?)
 - [Siguientes...](https://odysee.com/$/search?q=FilmotecaMaldita%2C%20Festiva%20de%20Cortos) 
 
 `
