@@ -107,7 +107,7 @@ En un plano existencialista no hay otro motor que propulse el velero del vivir s
 ## **Dia 7. Nº 13: "__Domingo__"**
 - **Reseña**: 
 `
-toman vino y escriben versos. Para la ocasión se han propuesto voltear una historia de iniciación. Alguien que sale de un cascarón de infancia y queda expuesto suelto en un mundo que está ahí. Actores sobrios y edición regia. Un corto para domingo por la tarde (pero a última hora).
+Hemingway, Bukowski y Baudelaire toman vino y escriben versos. Para la ocasión se han propuesto voltear una historia de iniciación. Alguien que sale de un cascarón de infancia y queda expuesto suelto en un mundo que está ahí. Actores sobrios y edición regia. Un corto para domingo por la tarde (pero a última hora).
 `
 .
 - ![](dia7/03072113.png)
