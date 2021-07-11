@@ -94,7 +94,7 @@ From Luther King's quote: "The ultimate measure of a person is not where he/she 
 
 
 
-## **Day 14. Nº 4: "__Vida cotidiana y pandemia__"**- **Title**: "__Vida cotidiana y pandemia__".
+## **Day 14. Nº 4: "__Vida cotidiana y pandemia__"**
 - **Review**:
 
 ||
