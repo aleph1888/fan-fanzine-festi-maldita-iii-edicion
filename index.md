@@ -1,6 +1,6 @@
 # (SITIO FAN TEAM NO OFICIAL) Fanzine: "Reseñas y Comentarios, Los Alephs, & Cía"
 
- - Nº 1, verano 2021
+ - Nº 1 Verano 2021, from Gamonal to the sky!
  - Título: **III Festival de Cortos: "La Filmoteca Maldita" 2021)**
 
 ¡Bienvenida a este fanzine de reseñas! 
@@ -12,12 +12,13 @@ Todos los comentarios son a título personal y no hay relación otra que de fan-
 El FeO ha subido las pistas de vídeo a Osysee:
 
 - [Presentación del Festival de Cortos y del calendario](https://odysee.com/@FilmotecaMaldita:c/presentaci%C3%B3n-del-festival-de-cortos-y:4)
-- [Festival de Cortos Día 1 Ft Jordi Maquiavello])[https://odysee.com/@FilmotecaMaldita:c/Festival-de-Cortos-Día-1-Ft-Jordi-Maquiavello:0?)
+- [Festival de Cortos Día 1 Ft Jordi Maquiavello]](https://odysee.com/@FilmotecaMaldita:c/Festival-de-Cortos-Día-1-Ft-Jordi-Maquiavello:0?)
 - [Siguientes...](https://odysee.com/$/search?q=FilmotecaMaldita%2C%20Festiva%20de%20Cortos) 
 
-```
+`
 ¡¡Atención!!: En la jornada 3 Twich se zumbó el canal de la Filmo por un "supuesto" y "presunto" plano donde se observaba un ano. ¡No hay vídeo de este día!
-```
+`
+
 ## Reseñas y comentarios
 - [Festival de Cortos - Día 14 Ft. @Zerkkal @Etnocritic](./dia14.md)
 - [Festival de Cortos - Día 13 Ft. @Matias Parkman](./dia13.md)
