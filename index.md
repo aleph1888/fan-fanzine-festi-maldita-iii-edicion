@@ -18,6 +18,8 @@ El FeO ha subido las pistas de vídeo a Osysee:
 `
 ¡¡Atención!!: En la jornada 3 Twich se zumbó el canal de la Filmo por un "supuesto" y "presunto" plano donde se observaba un ano. ¡No hay vídeo de este día!
 `
+## Premios (directores)
+![](festi-premios.png)
 
 ## Reseñas y comentarios
 - [Festival de Cortos - Día 14 Ft. @Zerkkal @Etnocritic](./dia14.md)
