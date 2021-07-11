@@ -68,3 +68,8 @@ Para todo lo demás: esta pieza, rodada de cabo a rabo, con ambiente, personajes
 - **Reseña**: Reluce el leitmotiv de este corto en el núcleo de la trama y, no es para menos, parece que sus actores juegan en casa, con su público. Personalmente, la voz que más me gusta narrando lo de "el trabajo y las horas" es Pizarnik, mas, ¡gustos los colores!, ete aquí otra voz narrándolo. Un bonito lugar común.
 - **Números**: Mis sietes con dos millones.
 - ![](dia5/01072111.png)
+
+
+# [Inicial](./index.md)
+
+[1](dia1.md) | [2](dia2.md) | [3](dia3.md) | [4](dia4.md) | [5](dia5.md) | [6](dia6.md) | [7](dia7.md) | [8](dia8.md) | [9](dia9.md) | [10](dia10.md) | [11](dia11.md) | [12](dia12.md) | [13](dia13.md) | [14](dia14.md)

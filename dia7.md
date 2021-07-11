@@ -73,3 +73,7 @@
 ## **Dia 7. Nº 15: "__My Boy (A love story)__"**
 - **Reseña**: ```Cuidada fotografía; banda sonora en el sitio; un toque de caracterización, mención obligatoria. Diálogos escuetos en un guión claro y conciso. Va de lo de Romero; y esta pieza entra holgada en el género. Una de terror empoderado.```.
 - ![](dia7/03072115.png)
+
+# [Inicial](./index.md)
+
+[1](dia1.md) | [2](dia2.md) | [3](dia3.md) | [4](dia4.md) | [5](dia5.md) | [6](dia6.md) | [7](dia7.md) | [8](dia8.md) | [9](dia9.md) | [10](dia10.md) | [11](dia11.md) | [12](dia12.md) | [13](dia13.md) | [14](dia14.md)
