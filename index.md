@@ -11,8 +11,8 @@ Todos los comentarios son a título personal y no hay relación otra que de fan-
 
 El FeO ha subido las pistas de vídeo a Osysee:
 
-- [Presentación del Festival de Cortos y del calendario](https://odysee.com/@FilmotecaMaldita:c/presentaci%C3%B3n-del-festival-de-cortos-y:4)
-- [Festival de Cortos Día 1 Ft Jordi Maquiavello](https://odysee.com/@FilmotecaMaldita:c/Festival-de-Cortos-Día-1-Ft-Jordi-Maquiavello:0?)
+- [Presentación del y del calendario](https://odysee.com/@FilmotecaMaldita:c/presentaci%C3%B3n-del-festival-de-cortos-y:4)
+- [Día 1 Ft Jordi Maquiavello](https://odysee.com/@FilmotecaMaldita:c/Festival-de-Cortos-Día-1-Ft-Jordi-Maquiavello:0?)
 - [Siguientes...](https://odysee.com/$/search?q=FilmotecaMaldita%2C%20Festiva%20de%20Cortos) 
 
 
@@ -27,18 +27,19 @@ El FeO ha subido las pistas de vídeo a Osysee:
 ![](festi-premios.png)
 
 ## Reseñas y comentarios
-- [Festival de Cortos Día 1 Ft Jordi Maquiavello](./dia1.md)
-- [Festival de Cortos Día 2 Ft @RotenMind](./dia2.md)
-- [Festival de Cortos Día 3 Ft The-ban-day](./dia3.md)
-- [Festival de Cortos Día 4 Ft @Yoshimitsu Caleon + Bonfire](./dia4.md)
-- [Festival de Cortos Día 5 Ft @Preguntas incomodas](./dia5.md)
-- [Festival de Cortos Día 6 Ft @traje con Voz + @Diefuan](./dia6.md)
-- [Festival de Cortos Día 7 Ft @MusicRadarClan](./dia7.md)
-- [Festival de Cortos Día 8 Ft. @Quetzal](./dia8.md)
-- [Festival de Cortos - Día 9 Ft. @A toda leche @Coffe_TV](./dia9.md)
-- [Festival de Cortos - Día 10 Ft. @MiredaProds](./dia10.md)
-- [Festival de Cortos - Día 11 Ft. @DayoScript](./dia11.md)
-- [Festival de Cortos - Día 12 Ft. Jerry The GhostPlayer de @Zoomf7](./dia12.md)
-- [Festival de Cortos - Día 13 Ft. @Matias Parkman](./dia13.md)
-- [Festival de Cortos - Día 14 Ft. @Zerkkal @Etnocritic](./dia14.md)
+- ([PDF](pdf/01.pdf)) [Día 1 Ft Jordi Maquiavello](./dia1.md)
+- ([PDF](pdf/02.pdf)) [Día 2 Ft @RotenMind](./dia2.md)
+- ([PDF](pdf/03.pdf)) [Día 3 Ft The-ban-day](./dia3.md)
+- ([PDF](pdf/04.pdf)) [Día 4 Ft @Yoshimitsu Caleon + Bonfire](./dia4.md)
+- ([PDF](pdf/05.pdf)) [Día 5 Ft @Preguntas incomodas](./dia5.md)
+- ([PDF](pdf/06.pdf)) [Día 6 Ft @traje con Voz + @Diefuan](./dia6.md)
+- ([PDF](pdf/07.pdf)) [Día 7 Ft @MusicRadarClan](./dia7.md)
+- ([PDF](pdf/08.pdf)) [Día 8 Ft. @Quetzal](./dia8.md)
+- ([PDF](pdf/09.pdf)) [Día 9 Ft. @A toda leche @Coffe_TV](./dia9.md)
+- ([PDF](pdf/10.pdf)) [Día 10 Ft. @MiredaProds](./dia10.md)
+- ([PDF](pdf/11.pdf)) [Día 11 Ft. @DayoScript](./dia11.md)
+- ([PDF](pdf/12.pdf)) [Día 12 Ft. Jerry The GhostPlayer de @Zoomf7](./dia12.md)
+- ([PDF](pdf/13.pdf)) [Día 13 Ft. @Matias Parkman](./dia13.md)
+- ([PDF](pdf/14.pdf)) [Día 14 Ft. @Zerkkal @Etnocritic](./dia14.md)
+
 
