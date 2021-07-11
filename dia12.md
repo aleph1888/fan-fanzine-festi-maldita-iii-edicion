@@ -28,9 +28,13 @@ Nota: Las dos barras verticales indican bloque "oculto", como en la imagen:
 ... y si encontramos dos de estas ramas: una a 315.000 años en lo que hoy es Marruecos; y otra a 165.000 años en Pinnacle Point (Sudáfrica);... 
 
 ...entonces:||
+
 `
+
 ... esta obra nos propone una hipótesis que aleja el foco de nuestro árbol genealógico. Mundos exteriores para "otros" comienzos... Una de stopmotion intimista e intergaláctica.
+
 `
+
 - **Opta a premios**: Svankmajer. Plympton. Chicho. Lipsky.
 - ![](dia12/0807211.png)  
 
@@ -46,9 +50,13 @@ Nota: Las dos barras verticales indican bloque "oculto", como en la imagen:
 ... al seguir la línea genealógica por vía materna de cada persona en el árbol genealógico de toda la humanidad, la Eva mitocondrial correspondería a un antepasado femenino común que comparte toda la población actual de seres humanos (Homo sapiens); y si basándose en la técnica de reloj molecular su encarnación se estima en 200.000 años atrás en el África Oriental;...
 
 ...entonces:||
+
 `
+
 Si la madre (Eva) acompañara a la narradora de este corto seguro que no se escandalizaría hasta el pánico, como lo hace el espectador. Ella  nos dio en herencia una forma de fuerza, liberable (o no) en forma de violencia. Un thriller durete.
+
 `
+
 - **Opta a premios**: Tarr, Chicho, Gavras, Morricone.
 - ![](dia12/0807212.png)  
 
@@ -62,9 +70,13 @@ Si la madre (Eva) acompañara a la narradora de este corto seguro que no se esca
 ... al seguir la línea genealógica por vía materna de cada persona en el árbol genealógico de toda la humanidad, la Eva mitocondrial correspondería a un antepasado femenino común que comparte toda la población actual de seres humanos (Homo sapiens); y si basándose en la técnica de reloj molecular su encarnación se estima en 200.000 años atrás en el África Oriental;...
 
 ...entonces:||
+
 `
+
 Si la madre (Eva) acompañara a la narradora de este corto seguro que no se escandalizaría hasta el pánico, como lo hace el espectador. Ella  nos dio en herencia una forma de fuerza, liberable (o no) en forma de violencia. Un thriller durete.
+
 `
+
 - **Opta a premios**: Tarr, Chicho, Gavras, Morricone.
 - ![](dia12/0807213.png)  
 
@@ -84,9 +96,13 @@ Si...
 ... dentro de una división de la escala temporal geológica, la última y actual época del período Cuaternario que comenzó hace 11.700 años correspondería al Holoceno (del griego "holos", todo, y "kainos", reciente);...
 
 ... entonces:||
+
 `
+
 ¿dejará, en lo reciente, huella o peso este corto como una de esas subhistorias de la Gran Historia? Apuesto a que este poema, monólogo interpretado, sí, lo dejará, aunque no será denso, como el plomo, sino gentil, delicado y grácil como una pluma... Una historia bien transmitida ideal para contar en corro.
+
 `
+
 - **Opta a premios**: Marker, Tarr, Chico.
 - ![](dia12/0807214.png)  
 
@@ -105,9 +121,13 @@ Si...
 
 ... la tesis de Heidegger según la cual el lenguaje es la casa del ser (Haus des Seins) y la morada de la esencia humana:
 ||
+
 `
+
 ¿está este corto "In da House"? O sea, ¿esta pieza, revive o forjará símbolo? Apuesto a que sí. ¡La cosa es el cine, y es nuestro! Una tragicomedia resultona.
+
 `
+
 - **Opta a premios**: Marker, Gavras, Cassavetes.
 - ![](dia12/0807215.png)  
 
@@ -124,9 +144,13 @@ Si...
 ... y, por enunciado:...
 
 ... los seres humanos son animales sociales, capaces de concebir, transmitir y aprender conceptos totalmente abstractos:||
+
 `
+
 escribir, interpretar y filmar una pieza como "Entrar y salir" es una de esas peripecias al alcance de pocos animales, diría que exclusivamente de los humanos. Una de acción ingeniosa y caótica.
+
 `
+
 - **Opta a premios**: Gavras... Lipsky. Python. Chicho.
 - ![](dia12/0807216.png)  
 
@@ -140,9 +164,13 @@ escribir, interpretar y filmar una pieza como "Entrar y salir" es una de esas pe
 
 ... que en muchas civilizaciones los seres humanos se ven a sí mismos como diferentes de los demás animales, y en ciertos ámbitos culturales (como las religiones del Libro o buena parte de la metafísica del Occidente) la diferencia se asigna a una entidad inmaterial llamada alma, en la que residirían la mente y la personalidad, y que algunos creen que puede existir con independencia del cuerpo:
 ||
+
 `
+
 ¿el espectador resonará a través su alma con este corto? ¿vibrará la obra tales fibras espirituales que incidan y remuevan al espectador como estas modernas butacas de cine 9D? ¡Apuesto a que, un poco sí! Esta pieza tiene alma. Y, quizás, por ello, como al hablar del espíritu, cueste de explicarla. Una de fotografía introspectiva que ha quedado como Powerpoint en tonos verdes.
+
 `
+
 - **Opta a premios**: Marker. Moctezuma, Cassavetes. Tarr. Diaz.
 - ![](dia12/0807217.png)  
 
@@ -160,10 +188,14 @@ escribir, interpretar y filmar una pieza como "Entrar y salir" es una de esas pe
 ... un relativismo cultural (y) donde cada cultura deba ser estudiada o interpretada desde sus propias creencias, valores, prácticas, hábitos, etcétera: 
 
 Si este corto (C) se opera del modo Cx/Cy para calcular su media de veracidad, ¿qué deriva?||
-`
-Apuesto a que el protagonista de este corto usufructúa un estimativo ideológico; y, también, del mismo tamaño, una interpretación propia muy tocha; Cx/Cy en esta pieza, calculo, tiende a infinito... Una de egografía trepidante y veraz.
 
 `
+
+Apuesto a que el protagonista de este corto usufructúa un estimativo ideológico; y, también, del mismo tamaño, una interpretación propia muy tocha; Cx/Cy en esta pieza, calculo, tiende a infinito... Una de egografía trepidante y veraz.
+
+
+`
+
 - **Opta a premios**: Dupieux. Marker, Gavras, Lipsky. Moctezuma, Morricone.
 - ![](dia12/0807218.png)  
 
@@ -179,9 +211,13 @@ Apuesto a que el protagonista de este corto usufructúa un estimativo ideológic
 ... y, dado un límite asintótico de este conjunto, que sea...
 
 ... el criterio de demarcación, donde se delimita si una teoría es científica siéndolo si y solo si esta es progresiva empíricamente, es decir, si predice hechos nuevos y explica parte de estos además de los ya conocidos:||
+
 `
+
 ¿esta obra, abunda en ciencia? Apuesto a que el espectador responderá con anuencia señalando un trabajo de edición correcto y una actuación correcta; y si ahora cuestionamos ¿y se excede de ciertos límites? Apostaría a que de nuevo el espectador aquiescente, un tanto boquiabierto. Una de pseudo-ciencia-ficción que sugiere más que desvela.
+
 `
+
 - **Opta a premios**: Chicho, Morricone, Moctezuma, Sono.
 - ![](dia12/0807219.png)  
 
@@ -193,9 +229,13 @@ Apuesto a que el protagonista de este corto usufructúa un estimativo ideológic
 ||¿Se considera a los humanos como superdepredadores; esto es: depredadores que no tienen depredadores naturales, situándose en lo alto de su cadena alimentaria? 
 
 ¿Cuánto de habitual hay en la condición de Homo homini lupu, que significa ‘el humano es un lobo para el humano' y se cita con frecuencia cuando se hace referencia a los horrores de lo que es capaz la humanidad para conseguir lo que quiere?||
+
 `
+
 Supóngase al espectador como un depredador-cultural. Este corto, ¿qué le supone? ¿alimento o encierra una amenaza depredadora? ¿Quién se come a quién? Apuesto a que esta sublime obra nutre como la miel o la jalea real... Una de animación que el Jerry le pedirá al FeO para revenderla en Netflix.
+
 `
+
 - **Opta a premios**: Plympton, Gavras, Marker, Chicho,  Morricone. Cassavetes.
 - ![](dia12/08072110.png)  
 
