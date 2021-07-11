@@ -15,9 +15,13 @@ El FeO ha subido las pistas de vídeo a Osysee:
 - [Festival de Cortos Día 1 Ft Jordi Maquiavello](https://odysee.com/@FilmotecaMaldita:c/Festival-de-Cortos-Día-1-Ft-Jordi-Maquiavello:0?)
 - [Siguientes...](https://odysee.com/$/search?q=FilmotecaMaldita%2C%20Festiva%20de%20Cortos) 
 
+
 `
+
 ¡¡Atención!!: En la jornada 3 Twich se zumbó el canal de la Filmo por un "supuesto" y "presunto" plano donde se observaba un ano. ¡No hay vídeo de este día!
+
 `
+
 
 ## Premios (directores)
 ![](festi-premios.png)

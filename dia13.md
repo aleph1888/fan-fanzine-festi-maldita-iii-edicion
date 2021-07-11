@@ -128,7 +128,7 @@ Esta pieza de animación es una caricia en la bragadura y un lametón en la cric
 
 - 1. f. Med. Especie de monomanía en la cual el enfermo se cree convertido en un animal.
 
-**desenalbardar **
+**desenalbardar**
 
 - 1. tr. Quitar la albarda, desaparejar las bestias.
 ||
