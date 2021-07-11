@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Fanzine: "Reseñas y Comentarios, Los Alephs, & Cía"
 
-You can use the [editor on GitHub](https://github.com/aleph1888/iii_festival_cortos_filmo_maldita_review/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ - Nº 1, verano 2021
+ - Título: **III Festival de Cortos: "La Filmoteca Maldita" 2021 (SITIO NO OFICIAL)**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+¡Bienvenida a este fanzine de reseñas! 
 
-### Markdown
+Todos los comentarios son a título personal y no hay relación otra que de fan-team con la organización del evento.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Listado de días y acceso a visualización de cortos
 
-```markdown
-Syntax highlighted code block
+El FeO ha subido las pistas de vídeo a Osysee:
 
-# Header 1
-## Header 2
-### Header 3
+- [Presentación del Festival de Cortos y del calendario](https://odysee.com/@FilmotecaMaldita:c/presentaci%C3%B3n-del-festival-de-cortos-y:4)
+- (Festival de Cortos Día 1 Ft Jordi Maquiavello
+)[https://odysee.com/@FilmotecaMaldita:c/Festival-de-Cortos-Día-1-Ft-Jordi-Maquiavello:0?]
+- ...
 
-- Bulleted
-- List
+¡¡Atención!!: En la jornada 3 Twich se zumbó el canal de la Filmo por un "supuesto" y "presunto" plano donde se observaba un ano. ¡No hay vídeo de este día!
 
-1. Numbered
-2. List
+(Lista de jornadas)[https://odysee.com/$/search?q=FilmotecaMaldita%2C%20Festiva%20de%20Cortos]: 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aleph1888/iii_festival_cortos_filmo_maldita_review/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Festival de Cortos - Día 14 Ft. @Zerkkal @Etnocritic
+- Festival de Cortos - Día 13 Ft. @Matias Parkman
+- Festival de Cortos - Día 12 Ft. Jerry The GhostPlayer de @Zoomf7
+- Festival de Cortos - Día 11 Ft. @DayoScript
+- Festival de Cortos - Día 10 Ft. @MiredaProds
+- Festival de Cortos - Día 9 Ft. @A toda leche @Coffe_TV
+- Festival de Cortos Día 8 Ft. @Quetzal
+- Festival de Cortos Día 7 Ft @MusicRadarClan
+- Festival de Cortos Día 6 Ft @traje con Voz + @Diefuan
+- Festival de Cortos Día 5 Ft @Preguntas incomodas
+- Festival de Cortos Día 4 Ft @Yoshimitsu Caleon + Bonfire
+- Festival de Cortos Día 2 Ft @RotenMind
+- Festival de Cortos Día 1 Ft Jordi Maquiavello
