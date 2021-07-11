@@ -117,8 +117,6 @@ Esta pieza de animación es una caricia en la bragadura y un lametón en la cric
 
 
 ## **Día 13. Nº 5: "__Sin lugares para el rosa__"**
-
-- **Pieza**: "__Sin lugares para el rosa__".
 - **Reseña**:  
 
 ||
