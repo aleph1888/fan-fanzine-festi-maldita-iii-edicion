@@ -51,13 +51,13 @@ En el chat:
 Una caricatura que es toda una golosina.
 ```
 - **Opta a premios**: Gavras, Lipsky, Python.
-- ![](dia11/0707217.png)
+- ![](dia11/0707216.png)
 
 
 ## **Día 11. Nº 7: "__Tapa bocas__"**
 - **Reseña**: ```Una idea sencilla con ritmo y bien ejecutada. Aprovecho esta reseña (a día 8 de Julio de 2021) para mentar a Samuel, DEP. ¿Es este corto un sordomudo de Miguel Noguera? Una de hardcore funk.```
 - **Opta a premios**: Chicho. Sono. Gavras. Marker. Lipsky. Python.
-- ![](dia11/0707218.png)
+- ![](dia11/0707217.png)
 
 
 ## **Día 11. Nº 8: "__El úndecimo año después__"**
