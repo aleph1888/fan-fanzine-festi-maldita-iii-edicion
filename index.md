@@ -27,6 +27,7 @@ El FeO ha subido las pistas de vídeo a Osysee:
 ![](festi-premios.png)
 
 ## Reseñas y comentarios
+- ([PDF](pdf/00Portada.pdf)) Esta página.
 - ([PDF](pdf/01.pdf)) [Día 1 Ft Jordi Maquiavello](./dia1.md)
 - ([PDF](pdf/02.pdf)) [Día 2 Ft @RotenMind](./dia2.md)
 - ([PDF](pdf/03.pdf)) [Día 3 Ft The-ban-day](./dia3.md)
