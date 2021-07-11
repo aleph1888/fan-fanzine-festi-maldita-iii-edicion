@@ -25,9 +25,9 @@ Perdonen las molestias, estamos luchando por ofrecer un mejor servicio en unas m
 
 - 1. m. Hond. Abeja pequeña de color amarillo, sin aguijón, que vive en los agujeros de las paredes y cuya miel es medicinal.
 ||
-```
+`
 Esta obra es pura miel de jimerito. 
-```
+`
 - **Opta a premios**: Plympton, Dupieux, Gavras. ¿Marker?
 - ![](dia13/0907211.png)  
 
@@ -46,9 +46,9 @@ Esta obra es pura miel de jimerito.
 
 - 2. tr. Halagar a alguien, especialmente a una mujer, con piropos o palabras que destaquen sus atractivos. 
 ||
-```
+`
 Esta pieza requiebra la teoría taxonómica a modo de magistral; así expuesto, este corto es un requiebro para la taxonomía.
-```
+`
 - **Opta a premios**: Plympton. Svankmajer.
 - ![](dia13/0907212.png)  
 
@@ -63,9 +63,9 @@ Esta pieza requiebra la teoría taxonómica a modo de magistral; así expuesto, 
 - 1. m. Tela fuerte de seda, muy tupida y prensada, que hace visos y aguas.
 ||
 
-```
+`
 Un ormesí de memoria persistente, visos de conciencia y aguas de corazón.
-```
+`
 - **Opta a premios**: Gavras. Cassavetes. Marker. ¿Morricone?
 - ![](dia13/0907213.png)  
 
@@ -91,9 +91,9 @@ Un ormesí de memoria persistente, visos de conciencia y aguas de corazón.
 
 - 1. f. Partes pudendas de la mujer.
 ||
-```
+`
 Esta pieza de animación es una caricia en la bragadura y un lametón en la crica.
-```
+`
 - **Opta a premios**: Plympton. Gavras.
 - ![](dia13/0907214.png)   
 
@@ -116,9 +116,9 @@ Esta pieza de animación es una caricia en la bragadura y un lametón en la cric
 
 - 1. tr. Quitar la albarda, desaparejar las bestias.
 ||
-```
+`
 El estigma zoantrópico de un machismo a desenalbardar, en clave rosa.
-```
+`
 - **Opta a premios**: Gavras, Marker, Cassavetes.
 - ![](dia13/0907215.png)  
 
@@ -141,9 +141,9 @@ El estigma zoantrópico de un machismo a desenalbardar, en clave rosa.
 
 - 1. m. Entrada de un puerto o canal.
 ||
-```
+`
 Neonata, cuando baje de dónde las hipocrénides, y arribe al ostial de la animación, esta obra será acogida con vítores.
-```
+`
 - **Opta a premios**: Plympton, Pojar, Python.
 - ![](dia13/0907216.png)  
 
@@ -167,9 +167,9 @@ Neonata, cuando baje de dónde las hipocrénides, y arribe al ostial de la anima
 
 - 2. f. Arq. Estría que se talla verticalmente o en hélice en columnas, pilastras u otros objetos decorativos.
 ||
-```
+`
 Un períptero sindical y sindicalista. Columnas de lucha cuyas acanaladuras llevan tallado nombre y apellidos. ¡Ni una lucha aislada!
-```
+`
 - **Opta a premios**: Gavras. Marker. Cassavetes.
 - ![](dia13/0907217.png)  
 
@@ -200,9 +200,9 @@ Nezahualcóyotl, poema "**No acabarán mis flores**":
     *al interior de la casa*  
     *del ave de plumas de oro.*
 ||
-```
+`
 Esta pieza es un brocadillo cuya seda es de redoble de tambores; y su oro de ancestral ave.
-```
+`
 - **Opta a premios**: Pojar, Gavras.
 - ![](dia13/0907218.png)  
 
@@ -213,9 +213,9 @@ Esta pieza es un brocadillo cuya seda es de redoble de tambores; y su oro de anc
 
 ## **Día 13. Nº 9: "__Examen de matemáticas__"**
 - **Reseña**: 
-```
+`
 (Mensaje del piquete que está vigilando esta columna de reseñas. La novena no se publica por servicios mínimos debido a la I Huelga colectiva contra la negativa del PRC a satisfacer las demandas sindicales.)
-```
+`
 - **Opta a premios**: Pojar, Marker, Svankmajer.
 - ![](dia13/0907219.png)  
 
@@ -246,9 +246,9 @@ Esta pieza es un brocadillo cuya seda es de redoble de tambores; y su oro de anc
 
 - 1. adj. Dicho de un color: Semejante al de la sangre o al del tomate maduro, y que ocupa el primer lugar en el espectro luminoso. U. t. c. s. m.
 ||
-```
+`
 ¿Un afacimiento en Bellas Artes sobre el rojo sensorial?
-```
+`
 - **Opta a premios**: Dupieux, Sono, Marker, Bava, Chico, ¿Tarr, Diaz?
 - ![](dia13/09072110.png)  
 
@@ -268,9 +268,9 @@ Esta pieza es un brocadillo cuya seda es de redoble de tambores; y su oro de anc
 
 - 1. m. Representación pictórica o escultórica del amor, en la forma de un niño desnudo y alado que suele llevar los ojos vendados y porta flechas, arco y carcaj.
 ||
-```
+`
 Por una carrendera audiovisual Cupido otea para nosotros la piel de la Madre Tierra. 
-```
+`
 - **Opta a premios**: Pojar, Lipsky, Bava, Morricone.
 - ![](dia13/09072111.png)  
 
