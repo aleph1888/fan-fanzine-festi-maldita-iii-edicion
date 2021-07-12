@@ -63,21 +63,19 @@ Si la madre (Eva) acompañara a la narradora de este corto seguro que no se esca
 
 
 ## **Día 12. Nº 3: "__Hoy fue un día soleado__"**
-- **Trama**: La madre Pan, la mitocrondrial.
+- **Trama**: Lo del último Pan.
 - **Reseña**: 
-||Si...
+||
+Si...
 
-... al seguir la línea genealógica por vía materna de cada persona en el árbol genealógico de toda la humanidad, la Eva mitocondrial correspondería a un antepasado femenino común que comparte toda la población actual de seres humanos (Homo sapiens); y si basándose en la técnica de reloj molecular su encarnación se estima en 200.000 años atrás en el África Oriental;...
+... es válido el nombre trinominal "Homo sapiens neanderthalensis" o si lo es el binomial "Homo neanderthalensis"; es decir, si los neardentales son "una subespecie" de sapiens o si, por contra, son una "especie a la par" de los sapiens; pero, si a pesar, se ha comprobado que sapiens y neandertales se han cruzado obteniendo descendencia fértil; y que los últimos neardeantales son de hace cuarenta mil años;...
 
-...entonces:||
-
-`
-
-Si la madre (Eva) acompañara a la narradora de este corto seguro que no se escandalizaría hasta el pánico, como lo hace el espectador. Ella  nos dio en herencia una forma de fuerza, liberable (o no) en forma de violencia. Un thriller durete.
+... entonces:||
 
 `
-
-- **Opta a premios**: Tarr, Chicho, Gavras, Morricone.
+¿de qué más rasgos tiene esta pieza: de libidinal Neardental o de psico Sapiens? Apuesto a que de lo primero: una fragancia de "casa" (ecológica) nos recuerda en nuestro interior la esencia de la que venimos en paisaje agro; y, por supuesto, lo de su crudeza... lleva girito. Una de suspense no-artistotélico muy cuidada.
+`
+- **Opta a premios**: Lav Diaz, Lipsky, Tarr, Chicho...
 - ![](dia12/0807213.png)  
 
 

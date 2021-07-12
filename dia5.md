@@ -33,15 +33,11 @@ Para todo lo demás: esta pieza, rodada de cabo a rabo, con ambiente, personajes
 - ![](dia5/0107215.png)
 
 ## **Dia 5. Nº6: "Indirecto"**
-
-- **Pieza**: "Indirecto".
 - **Reseña**: Allí donde mejor canta un maker (o un DIY; o un DIWO) tiene sitio esta pieza; muy apañada en lograr eso tópico de "con cuatro cositas que tenemos en casa". Este corto muy hábil de ingenio aunque justo en la actuación es una distopía trepidante que se subastaran los remakers y con opciones a pantalla grande. Una buena píldora de ciencia ficción que aspira a mediometraje.
 - **Números**: Mis ochos coma noventa y nueve.
 - ![](dia5/0107216.png)
 
 ## **Dia 5. Nº7: "Pasaje"**
-
-- **Pieza**: "Pasaje".
 - **Reseña**: La cámara acompaña a nuestro protagonista que nos abre las puertas de su vida privada, mostrándonos un cotidiano cualquiera. Eso sí, donde pone "cualquiera" queremos decir exactamente, literalmente, "cualquiera". Me gustaría que Jung visionara la pieza y probara de analizarlo, ¿sería para él un caso arquetípico? ¿Y si sí, autismo, esquizofrenia? En el chat comentan: entre Memento y Donnie Darko.
 - **Números**: Mis sietes coma noventa mil.
 
