@@ -22,6 +22,19 @@ El FeO ha subido las pistas de vídeo a Osysee:
 
 `
 
+https://www.youtube.com/watch?v=YiVjJIn-ULg
+
+# Votación premio publico 3 festival de cortos EN YOUTUBE
+- 1,137 views
+- Jul 17, 2021
+- **El cine es nuestro**
+- 8.39K subscribers
+- https://www.youtube.com/watch?v=YiVjJIn-ULg
+
+ Por temas de censura los cortos que faltan no pueden verse en esta plataforma.
+Los teneis en el canal de Odysee de La Filmoteca Maldita
+https://odysee.com/@FilmotecaMaldita:... 
+
 
 ## Premios (directores)
 ![](festi-premios.png)
