@@ -40,7 +40,7 @@
 [02/07](https://discord.com/channels/739208143523020841/769436011981570068/992536317051277342) ¿Entre Dupieux [surrealista] y Anger/Moctezuma [Cosa rara]? ¡Con trazas de Lav Diaz [obra larga]! Feo: *"Reminiscencias de Alejo y Valentina"*. Rebel: *"Este chico... Se viene, tenemos director en ciernes"*.  
 .  
 .  
-- ![](08.png)
+- ![](08.png)  
 ![](08a.png)  
 [02/08](https://discord.com/channels/739208143523020841/769436011981570068/992539389563519036) Un plano secuencia al amparo de un Python [el más divertido] sin burbujas ni espuma.  
 .  
@@ -60,7 +60,7 @@ malaquita08: *"yo cuando tomaba medicacion ni me enterada de mi alrededor... ere
 .  
 .  
 - ![](12.png)  
-[02/12](https://discord.com/channels/739208143523020841/769436011981570068/992548283861962845) FilmotecaMaldita: *"argentinos chamulleando.""*; marshaepc: "*El se grabó solo ... muy bien 🤗*". Café Kyoto: *"Falta un spinoff de esto..."*  
+[02/12](https://discord.com/channels/739208143523020841/769436011981570068/992548283861962845) FilmotecaMaldita: *"argentinos chamulleando."*; marshaepc: "*El se grabó solo ... muy bien 🤗*"; Café Kyoto: *"Falta un spinoff de esto..."*  
 .  
 .  
 
