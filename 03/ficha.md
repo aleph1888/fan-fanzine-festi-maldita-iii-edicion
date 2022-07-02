@@ -13,7 +13,7 @@
 [03/01](https://discord.com/channels/739208143523020841/769436011981570068/992886982680252507)  
 guerrerobravo777: "*Pon el corto "Backwards" para entender el mensaje subliminal..."*;  
 edvardo_96: "*pues no entendí, pero visualmente me gustó 7/10*";  
-luis_e_mano [autor]: "*está en el infierno y al final se da cuenta que su vida no es nada; es un poema que cree para un momento tan malo que me pasó."*.  
+luis_e_mano [autor]: "*está en el infierno y al final se da cuenta que su vida no es nada; es un poema que cree para un momento tan malo que me pasó"*;  
 Hergad: "*Referencia a Vincent de Tim Burton*".  
 .  
 .  
@@ -30,7 +30,7 @@ titokrause: "*Planos desde arriba. Desde ventilador. Zoom a la caja. Jugó mucho
 [03/03](https://discord.com/channels/739208143523020841/769436011981570068/992892245659361410)  
 alvarutiscg: "*Amores perros cuando habian perros y tremenda peli mexicana*";  
 S_Fita: "*Entiendo que ha querido jugar con el audio, me gusta el juego visual y cosas que haces o intentas hacer pero has jodido el corto con el audio*";  
-Elly: "*te hace sentir como si realmente te agoviara lo mundano*".  
+Elly: "*Te hace sentir como si realmente te agoviara lo mundano*".  
 .  
 .  
 - ![](04.png)  
@@ -57,10 +57,10 @@ Hergad: "*La gente inteligente habla con metáforas.*".
 .  
 - ![](07.png)  
 [03/07](https://discord.com/channels/739208143523020841/769436011981570068/992904061298942013)  
-mandacarallo2:: "*La música es muy del tipo de la de las películas de Hictckock! En plan Bernard Hermann o algo así ....al estilo antiguo vaya... no sé a mí me recuerda al cine clásico*";  
+mandacarallo2: "*La música es muy del tipo de la de las películas de Hictckock! En plan Bernard Hermann o algo así ....al estilo antiguo vaya... no sé a mí me recuerda al cine clásico*";  
 Feo: "*Dice alguien: Lav Diaz [corto más largo] ¡ten cuidado!*";  
-Ghwer: "*La idea es confundir al expectador con tantas escenas para que al final se dé cuenta... un persona que va a la escuela y aquel dia no había clases... y ya*".  
-Hergad: "*Un videoblog de los años 80,... ¡aquí hace falta un drama!"*.  
+Ghwer: "*La idea es confundir al expectador con tantas escenas para que al final se dé cuenta... un persona que va a la escuela y aquel dia no había clases... y ya*";  
+Hergad: "*Un videoblog de los años 80,... ¡aquí hace falta un drama!"*;  
 jchavarria_cine: "*Se siente como una introducción, ¡nos faltó la película!*".  
 .  
 .  
@@ -68,7 +68,7 @@ jchavarria_cine: "*Se siente como una introducción, ¡nos faltó la película!*
 [03/08](https://discord.com/channels/739208143523020841/769436011981570068/992907214601846905)  
 mizraimn: "*Mucho texto, pasa muy rápido, y los colores no hacen contraste.*";  
 spronchkyan: "*No interpreta mal, transmite la emoción*";  
-travis_jazz: "*La elocuencia entre las transiciones reflejan un dinamismo a la hora de narrarnos la dinámica y el entrevesado subconciente del protagonista*".  
+travis_jazz: "*La elocuencia entre las transiciones reflejan un dinamismo a la hora de narrarnos la dinámica y el entrevesado subconciente del protagonista*";  
 merlidelagua: "*Basta de culpa* [masculinidad frágil] *, la culpa no existe, a ver cuando nos hacemos cargo de nuestras decisiones; eso es lo que mas me molestó, creo*".  
 .  
 .  
@@ -79,7 +79,7 @@ esquizoide0: "*Puro monólogo llorón... 🤦🏼‍♂️*";
 raysosab: "*La insoportable levedad del ser*";  
 ggbyte_: "*No es lo mismo depre que masculidad frágil, eh?*";  
 dristan_x: "*El tipo de negro representa su masculinidad tóxica*";  
-Hergad: "*Hay recursos muy Lars Von Trier para pulir. Pero un poquito cliché: ¡luchando contra mí mismo!*";  
+Hergad: "*Hay recursos muy Lars Von Trier para pulir. Pero un poquito cliché: ¡luchando contra mí mismo!*".  
 .  
 .  
 - ![](10.png)  
@@ -88,8 +88,8 @@ malaquita08: "*¿A lo Hardcore Henry, no?*";
 mongrelstrassenhund: "*Aunque hay coña en el chat... se debe reconocer que la trama y el ritmo son envolventes*";  
 ElPorreteSabrosetee: "*Era todo un sueño de Resines*";
 gombowombo: "*No entendí una verga, pero está muy bien realizado.*";  
-angel_d_hurtado: "*¿tuvo final?*".  
-Alienigena_Ancestral: "*Explicación del corto que acabamos de ver, el protagonista está desfasado en el espacio y el tiempo cada que entra en el bar*";    
+angel_d_hurtado: "*¿tuvo final?*";  
+Alienigena_Ancestral: "*Explicación del corto que acabamos de ver, el protagonista está desfasado en el espacio y el tiempo cada que entra en el bar*".    
 .  
 .  
 
