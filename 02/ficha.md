@@ -1,7 +1,7 @@
 # Festival de Cortos de la Filmoteca Maldita 2022
 [Volver al índice](../festi.md)
 
-## Dia 2 02/07/2022 (Café Kyoto)
+## Dia 2 01/07/2022 (Café Kyoto)
 ![](dia.png)
 
 ### Cortos
