@@ -25,7 +25,7 @@ Alienigena_Ancestral: "*¡Ah, metaliteratura!*";
 titokrause: "*Planos desde arriba. Desde ventilador. Zoom a la caja. Jugó mucho con los planos sin que se haga demasiado evidente. Eran muy coherentes dentro de lo que quería explicar.*"  
 .  
 .  
-- ![](03.png) 
+- ![](03.png)  
 ![](03a.png)  
 [03/03](https://discord.com/channels/739208143523020841/769436011981570068/992892245659361410)  
 alvarutiscg: "*Amores perros cuando habian perros y tremenda peli mexicana*";  
@@ -72,7 +72,7 @@ travis_jazz: "*La elocuencia entre las transiciones reflejan un dinamismo a la h
 merlidelagua: "*Basta de culpa* [masculinidad frágil] *, la culpa no existe, a ver cuando nos hacemos cargo de nuestras decisiones; eso es lo que mas me molestó, creo*".  
 .  
 .  
-- ![](09.png)
+- ![](09.png)  
 [03/09](https://discord.com/channels/739208143523020841/769436011981570068/992910281665683466)  
 FilmotecaMaldita: "*Somos tipos, estamos estamos tristes, aparentamos ser duros, somos sensibles, tenemos problemas... Ser hombre es difícil en 2022. Llamadlo masculinidad deconstruida mejor q frágil...*";  
 esquizoide0: "*Puro monólogo llorón... 🤦🏼‍♂️*";  
