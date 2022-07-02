@@ -4,6 +4,19 @@
 ## Dia 3 03/07/2022 (Hergad / jchavarria_cine)
 ![](dia.png)
 
+
+### 
+- 1 - Hasta En Arcadia Existo (corto 40) - Luis E. Mano  
+- 2 - La caja musical (corto 12) - Kevin Zahid  
+- 3 - Nada es importante (corto 136) - Edson Gahel Alanis A  
+- 4 – Audio (corto 71) – ima  
+- 5 - Un angel Exterminador (corto 152) - Rodión Romanovich Raskólnikov  
+- 6 – Simón (corto 64) – Rava Rava  
+- 7 - Confusion TARDIA (corto 10) -  Fili.A Martinez  
+- 8 - Red dementia (corto 104) - Alejandro García  
+- 9 – El Sueño (corto 130) -  Rodrigo Cárdenas  
+- 10 – Run Run (corto 161) - Guillermo Rodriguez  
+
 ### Cortos
 
 (Los votos mostrados son de gente que estaba en el Discord [de la Filmo] en ese momento. Puedes seguir el enlace para dejar tu voto **no oficial** y/o ver cómo evoluciona su votación.)
