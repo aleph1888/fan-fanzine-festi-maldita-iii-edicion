@@ -64,8 +64,8 @@ esquizoide0: "*Me sé la referencia pero no veo el sentido a hacer un remake de 
 [03/06](https://discord.com/channels/739208143523020841/769436011981570068/992901664845602827)  
 KidPochoclo: "*Simón Radowitzky fue un militante obrero anarquista ucranio-argentino de origen judío. Fue conocido por el atentado con bomba que mató al jefe de policía Ramón Lorenzo Falcón, responsable de la brutal represión de la semana roja de 1909 en Buenos Aires.*";  
 vidalhoaxer: "*Dice tanto con tan poco*";  
-guerrerobravo777: "*Te pasa la vida en un segundo... una vida de opresión y de lucha*".  
-Hergad: "*La gente inteligente habla con metáforas.*".  
+guerrerobravo777: "*Te pasa la vida en un segundo... una vida de opresión y de lucha*";  
+Hergad: "*La gente inteligente habla con metáforas*".  
 .  
 .  
 - ![](07.png)  
@@ -97,9 +97,9 @@ Hergad: "*Hay recursos muy Lars Von Trier para pulir. Pero un poquito cliché: �
 .  
 - ![](10.png)  
 [03/10](https://discord.com/channels/739208143523020841/769436011981570068/992913098900000828)  
-malaquita08: "*¿A lo Hardcore Henry, no?*";
+malaquita08: "*¿A lo Hardcore Henry, no?*";  
 mongrelstrassenhund: "*Aunque hay coña en el chat... se debe reconocer que la trama y el ritmo son envolventes*";  
-ElPorreteSabrosetee: "*Era todo un sueño de Resines*";
+ElPorreteSabrosetee: "*Era todo un sueño de Resines*";  
 gombowombo: "*No entendí una verga, pero está muy bien realizado.*";  
 angel_d_hurtado: "*¿tuvo final?*";  
 Alienigena_Ancestral: "*Explicación del corto que acabamos de ver, el protagonista está desfasado en el espacio y el tiempo cada que entra en el bar*".    
