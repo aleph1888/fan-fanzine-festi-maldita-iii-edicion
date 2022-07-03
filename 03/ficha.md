@@ -1,7 +1,7 @@
 # Festival de Cortos de la Filmoteca Maldita 2022
 [Volver al índice](../festi.md)
 
-## Dia 3 03/07/2022 (Hergad / jchavarria_cine)
+## Dia 3 02/07/2022 (Hergad / jchavarria_cine)
 ![](dia.png)
 
 
