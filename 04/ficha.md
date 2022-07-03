@@ -113,6 +113,7 @@ Elly: "*el diseño de sonido es muy bueno, tambien el timing de la animacion es 
 ![](11a.png)  
 ![](11b.png)  
 [04/11](https://discord.com/channels/739208143523020841/769436011981570068/993275522685607956)  
+[VER CORTO](https://www.youtube.com/watch?v=lZJ-_KvQemk)  
 KidPochoclo: "*NO DIOS CERREMOS HOY EL FESTIVAL*";  
 a9a9aa99: "*El 115 es una carta de amor al 115*";  
 mizraimn: "*JODER SE ROMPIÓ LA CUARTA PARED*";  
