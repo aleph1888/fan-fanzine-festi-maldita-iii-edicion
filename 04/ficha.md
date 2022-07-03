@@ -91,7 +91,7 @@ raysosab: "*clara referencia a la rosa de Guadalupe.*".
 mizraimn: "*eso es el proceso creativo luego de ver Creepypastas*";  
 elpulentoso2019: "*se nota la influencia del anime*";  
 shadowceless: "*me identifico demasiado con este pibe, Le entiendo*";  
-a_ltgr_: "*pues si queria demostrar que puede realizar diferentes tipos de ambientacion, lo ha logrado*";
+a_ltgr_: "*pues si queria demostrar que puede realizar diferentes tipos de ambientacion, lo ha logrado*";  
 Feo: "*Mis dieces!*";  
 Quetzal: "*Y los míos!*".  
 .  
