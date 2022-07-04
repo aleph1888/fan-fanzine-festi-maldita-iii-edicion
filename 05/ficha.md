@@ -1,4 +1,5 @@
-# Festival de Cortos de la Filmoteca Maldita 2022
+# IV Festival de Cortos de la Filmoteca Maldita 2022
+SITIO FANTEAM NO OFICIAL  
 [Volver al índice](../festi.md)
 
 ## Dia 5 04/07/2022 (Rottenmind + Yoshimichu)
@@ -19,7 +20,7 @@
 
 ### Cortos
 
-(Los enlaces llevan al canal de Discord "Chat sin micro" donde vimos juntos el festi)
+(Los enlaces llevan al canal de Discord "Chat sin micro")
 
 - ![](01.png)  
 [05/01](https://discord.com/channels/739208143523020841/769436011981570068/993609395223142401)  
