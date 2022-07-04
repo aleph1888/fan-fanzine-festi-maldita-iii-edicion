@@ -6,6 +6,7 @@ En esta web tienes un resumen de los cortos proyectados.
 - [Dia 2 01/07/2022 (Café Kyoto)](02/ficha.md)
 - [Dia 3 02/07/2022 (Hergad / jchavarria_cine)](03/ficha.md)
 - [Dia 4 03/07/2022 (Quetzal)](04/ficha.md)
+- [Dia 5 04/07/2022 (Rottenmind + Yoshimichu)](05/ficha.md)
 
 # Categorías de premios
 

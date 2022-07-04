@@ -1,7 +1,7 @@
 # Festival de Cortos de la Filmoteca Maldita 2022
 [Volver al índice](../festi.md)
 
-## Dia 4 04/07/2022 (Quetzal)
+## Dia 4 03/07/2022 (Quetzal)
 ![](dia.png)
 
 - 1 - **¿Me abrazas?** (corto 153) - JNK Atemiz  
@@ -10,11 +10,11 @@
 - 4 – **El ser más débil** (corto 68) - FirMistery  
 - 5 – **Banana** (corto 6) - JUAN IGNACIO Irusta  
 - 6 – **No es un lugar para crecer** (corto 131) - Jesús Coello  
-- 7 – **Días de días** (corto 63) - Sneaky 13456  
+- 7 – **Días de días** (corto 33) - Sneaky 13456  
 - 8 – **Recuerdos** (corto 50) - Andrés Correa   
 - 9 – **Lluvia de ideas** (corto 8) - Kevin Zahid  
-- 10 – **El llamado de la tierra** (corto 123) - Demetrio Ayala
-- 11 – **Pongan el 115** (corto 115) - Edward 115, trinex
+- 10 – **El llamado de la tierra** (corto 123) - Demetrio Ayala  
+- 11 – **Pongan el 115** (corto 115) - Edward 115, trinex  
 
 
 ### Cortos
@@ -30,8 +30,9 @@ ElonMunsk:
 .  
 - ![](02.png)  
 [04/02](https://discord.com/channels/739208143523020841/769436011981570068/993255835465691187)  
-mizraimn: "*Una muchacha que se va a la ciudad con el fin de buscar un futuro mejor porque huye de algún peligro.*";  
+mizraimn: "*Una muchacha que se va a la ciudad con el fin de buscar un futuro mejor porque huye de algún peligro*";  
 el gf: "*tiene produccion ese celular*";  
+AlexWerden: "*es muy LATAM, te violan y debes huir para que no te estigmaticen encima o lo vuelvan a hacer*";  
 Antz: "*se lo curraron*".  
 .  
 .  
@@ -39,20 +40,24 @@ Antz: "*se lo curraron*".
 ![](03a.png)  
 [04/03](https://discord.com/channels/739208143523020841/769436011981570068/993257446577537064)  
 elpulentoso2019: "*joder, sin palabras, plano secuencia largo y con metaforas, para mi es cine*";  
-guerrerobravo777: "*El niño esta confinado... y odia a la madre por que no lo deja salir?*"  
+guerrerobravo777: "*El niño esta confinado... y odia a la madre por que no lo deja salir?*";  
+rickkkk_sm: "*El niño es solo la proyección de la chica, en realidad no hay un niño, todo está en su cabeza*";  
+quetzal: "*Me ha recordado a Carla Simón. Eso es bueno, que Carla es una directora muy buena*".  
 .  
 .  
 - ![](04.png)  
 ![](04a.png)  
 [04/04](https://discord.com/channels/739208143523020841/769436011981570068/993260106861006958)  
-matuterecomienda: "*Tiene algo de Lovecraft con el horror cósmico.*";  
+matuterecomienda: "*Tiene algo de Lovecraft con el horror cósmico*";  
 lisandroof: "*Tremenda cinemática, ahora empieza el gameplay*";  
-Quetzal: "*¡Mucho texto! Show don't tell!*".  
+kevin_zahid: "*Pasenme el Videojuego*";  
+elpulentoso2019: "*fuera de joda, en este caso me gusta que la estetica sin pulir sea un gancho para un mensaje profundo, te engancha! felicito al creador*";  
+Quetzal: "*¡Mucho texto! Show, don't tell!*".  
 .  
 .  
 - ![](05.png)  
 [04/05](https://discord.com/channels/739208143523020841/769436011981570068/993262601641398393)  
-Quetzal: "*Warhold ya se comió una hamburguesa y tiene más erotismo que tú comiéndote una banana. Si al menos hubiera puesto ojos de puta, caída de párpados, o algo...*".  
+Quetzal: "*Warhold ya se comió una hamburguesa y tiene más erotismo que tú comiéndote una banana. Hay más erotismo en Warlhold comiéndose la hamburguesa. Si al menos hubiera puesto ojos de puta, hubiera rechupeteado, caída de párpados, o algo...*".  
 .  
 .  
 
@@ -60,7 +65,8 @@ Quetzal: "*Warhold ya se comió una hamburguesa y tiene más erotismo que tú co
 ![](06a.png)  
 [04/06](https://discord.com/channels/739208143523020841/769436011981570068/993263813879144579)  
 nachohache1978: "*Parece un proyecto de gente que empieza pero pueden llegar lejos si siguen trabajando*";  
-Quetzal: "*Bien, pero tijera.*";  
+Quetzal: "*Bien, pero tijera*";  
+eddymex69: "*Mi realidad, solo por eso se gana un punto, me identifico*";  
 comemurcielagos: "*no ir a guayaquil, entendido*";  
 a_ltgr_: "*la idea estaba buena, pero le falto algo de dinamismo... y el audio te saca mucho.*"  
 .  
@@ -123,7 +129,7 @@ Mopar2730: "*Adelantado a su época*";
 DavoxtTW: "*yo ya estoy llorando por esta maravilla*";  
 shadowceless: "*Estuvo mejor que el año pasado*";  
 xajpot: "*SI JOKER FUERA BUENA PELÍCULA*";  
-Quetzal: "*Podría haberlo filmado Ryan Murphy! (me voy a tatuar '115' en la polla; en el huevo izquierdo pondré un código QR con enlace al corto del año pasado; y en el huevo derecho el de este año; cada vez que alguien quiera follarme y quiera acceder al sacro totémico entre mis piernas tendrá que ver estas piezas*";  
+Quetzal: "*Podría haberlo filmado Ryan Murphy! (me voy a tatuar '115' en la polla; en el huevo izquierdo pondré un código QR con enlace al corto del año pasado; y en el huevo derecho el de este año; cada vez que alguien quiera follarme y quiera acceder al sacro totémico entre mis piernas tendrá que ver estas piezas)*";  
 Maquiavelo: "*La peor dirección de actores que he visto en mi vida. Una trama de Nolan con estilo Lynch del tres al cuarto, tipo el bazar chino de abajo de mi casa. ¡Decepcionante! Una mierda pintada de originalidad.*"  
 Feo: "*Yo lo he visto supermetafórico. Es un payaso pidiendo que se ponga el 115.*".  
 .  
