@@ -15,7 +15,6 @@
 - 9 - **EL paso del tiempo** (corto 37) - Hernan Orozco   
 - 10 - **El regalo** (corto 112) - Gilbela   
 - 11 – **La foto** (corto 155) - Lars Thorwald   
--   
 
 
 ### Cortos
@@ -118,7 +117,7 @@ mizraimn: "*Yo nunca he hido a una protesta con estos rolones";
 pegotiao: "*la música hace referencia al sistema ajustando sus tuercas*";  
 diezisieteoportunidades: "*"Artículo 3. 1. La fase atmosférica del ciclo hidrológico sólo podrá ser modificada artificialmente por la Administración del Estado o por aquellos a quienes ésta autorice (art. 3 del TR de la LA). Toda actuación pública o privada tendente a modificar el régimen de lluvias deberá ser aprobada previamente por el Ministerio de Obras Públicas y Urbanismo*"  
 Rottenmind: "*A ver, la protesta y la reinvidicación merece el espacio, pero quizás en un festival de cortos no es el sitio... como documental muy bien, pero como obra de creación faltaría (recuerden a System of a Down: boom!*"  
-Feo: "*Vemos la protesta, pero si quieres visibilizar una causa, faltaría ver un poco qué efectos, qué problemática, envolver la lucha para entenderla bien desde un punto de vista más amplio. Aunque todo el mundo conoce en líneas general, pero falta más señalar a los culpables, qué consecuencias...*"
+Feo: "*Vemos la protesta, pero si quieres visibilizar una causa, faltaría ver un poco qué efectos, qué problemática, envolver la lucha para entenderla bien desde un punto de vista más amplio. Aunque todo el mundo conoce en líneas general, pero falta más señalar a los culpables, qué consecuencias...*"  
 .  
 .  
 - ![](09.png)  
@@ -154,7 +153,6 @@ Feo: "*[Se le viene Gato al micrófono] Sí, están hablando de ti!*"
 - ![](11.png)  
 ![](11b.png)  
 [05/11](https://discord.com/channels/739208143523020841/769436011981570068/993628955787673690)  
-
 nachohache1978: "*este corto parece hecho por estudiantes de instituto o audiovisuales*";  
 rafaelcrz: "*telenovela de televisa*";  
 alvaroytalytal: "*mu buena la ensaladilla rusa*";  
