@@ -81,7 +81,7 @@ Rottenmind: "*Me ha gustado, pero esas improvisaciones se delataban un poco  y l
 ![](06b.png)  
 [05/06](https://discord.com/channels/739208143523020841/769436011981570068/993619639957458985)  
 victor_mv23: "*que suave voz tiene el diablito furro*";  
-travis_jazz: "*La ultima gran obra de la humanidad, morbius *";  
+travis_jazz: "*La ultima gran obra de la humanidad, morbius*";  
 el gf: "*un video de youtube de un furro*";  
 5y5t3m32: "*Esta bastante linda la animacion*";  
 Rotten: "*Un cliché un poco aburrido... es un mensaje que hemos oído muchas veces.*";  
@@ -98,7 +98,6 @@ exxochiquito: "*Nosotros somos el corto*";
 pandasticat: "*Terrence Malick momento*";  
 merlidelagua: "*monty phyton*";  
 caimanmedial: "*A Tarantino le gusta esto*";  
-merlidelagua: "*monty phyton*";  
 guerrerobravo777: "*Hack life: detector de metales con papel aluminio....*";  
 ElMismisimoMandinga: "*primer cortometraje de stanley kubrick documentado*";  
 PosYoKeSe: "*La obra que conmovio a Spilberg*";  
@@ -109,13 +108,13 @@ JpCortez0: "*Premio a la mejor fotografía para un corto troll, chabón*"
 - ![](08.png)  
 ![](08a.png)  
 [05/08]()  
-aline_kleine: "*Corto político Mexicano";  
-bl3d: "*La musica es de Sewerslvt  Mr. Kill Myself";  
-malaquita08: "*me apetece irme de mani y despues de rave, quien se apunta?¿";  
-Alienigena_Ancestral: "*por el acaparamiento de agua de las empresas";  
-mizraimn: "*Yo nunca he hido a una protesta con estos rolones";  
+aline_kleine: "*Corto político Mexicano*";  
+bl3d: "*La musica es de Sewerslvt  Mr. Kill Myself*";  
+malaquita08: "*me apetece irme de mani y despues de rave, quien se apunta?¿*";  
+Alienigena_Ancestral: "*por el acaparamiento de agua de las empresas*";  
+mizraimn: "*Yo nunca he hido a una protesta con estos rolones*";  
 pegotiao: "*la música hace referencia al sistema ajustando sus tuercas*";  
-diezisieteoportunidades: "*"Artículo 3. 1. La fase atmosférica del ciclo hidrológico sólo podrá ser modificada artificialmente por la Administración del Estado o por aquellos a quienes ésta autorice (art. 3 del TR de la LA). Toda actuación pública o privada tendente a modificar el régimen de lluvias deberá ser aprobada previamente por el Ministerio de Obras Públicas y Urbanismo*"  
+diezisieteoportunidades: "*"Artículo 3. 1. La fase atmosférica del ciclo hidrológico sólo podrá ser modificada artificialmente por la Administración del Estado o por aquellos a quienes ésta autorice (art. 3 del TR de la LA). Toda actuación pública o privada tendente a modificar el régimen de lluvias deberá ser aprobada previamente por el Ministerio de Obras Públicas y Urbanismo*";  
 Rottenmind: "*A ver, la protesta y la reinvidicación merece el espacio, pero quizás en un festival de cortos no es el sitio... como documental muy bien, pero como obra de creación faltaría (recuerden a System of a Down: boom!*"  
 Feo: "*Vemos la protesta, pero si quieres visibilizar una causa, faltaría ver un poco qué efectos, qué problemática, envolver la lucha para entenderla bien desde un punto de vista más amplio. Aunque todo el mundo conoce en líneas general, pero falta más señalar a los culpables, qué consecuencias...*"  
 .  
