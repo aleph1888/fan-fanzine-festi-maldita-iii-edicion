@@ -89,9 +89,8 @@ Ghwer: "*puro avant garde*";
 jorgericardo2004: "*roma gallardo edición 2050*";  
 heartofthewoods: "*ufff, los objetivos de desarollo sostenible. a ver si sacan algo interesante*";  
 aresama99: "*son los objetivos de la onu para el 2030 creo, todos los gob, se compremetieron para cumplirlos.*";  
-son los objetivos de la onu para el 2030 creo, todos los gob, se compremetieron para cumplirlos.*";  
 marvin90kp: "*De verdad xreen que llegaremos al 2030*";  
-mandacarallo2: "*@marvin90kp Sí! Mal pero llegaremos ...no siendo que nos mate antes la propia naturaleza*";  
+mandacarallo2: "*marvin90kp Sí! Mal pero llegaremos ...no siendo que nos mate antes la propia naturaleza*";  
 brunoascar: "*por qué estamos dejando que pase enotnces?*"  
 .  
 .  
