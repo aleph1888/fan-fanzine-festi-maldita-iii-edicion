@@ -119,8 +119,8 @@ fede_kelgar: "*el corto se debería llamar: ''Aquí Procurando Procurar''*";
 heartofthewoods: "*Ojala el Procurador procure callarse*";  
 alvarutiscg: "*el procurador y el chocotorro. el corto*";  
 braineater23: "*Ojalá esto sólo fuera sólo algo de un corto, tristemente es una parodia de los funcionarios políticos en México pfff*";  
-JpCortez0: "*No es parodia; es una sátira.. Y muy buena..*";  
-DaniBoube: "*Chacotorro, cilantro, estamos gordos y tal... ¡se entiende el chiste! *";  
+JpCortez0: "*No es parodia; es una sátira.. Y muy buena.*";  
+DaniBoube: "*Chacotorro, cilantro, estamos gordos y tal... ¡se entiende el chiste!*";  
 Feo: "*Trabajando duro para el Bela Tarr*"  
 .  
 .  
