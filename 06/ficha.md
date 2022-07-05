@@ -5,6 +5,20 @@ SITIO FANTEAM NO OFICIAL
 ## Dia 6 05/07/2022 (DaniBoubeTv + Kenia)
 ![](dia.png)
 
+DIA 6 – DANIBOUBETV & KENIA
+- 1 - **Yasha Gozen** (corto 162) - Sylvain wain Dezaki 2.0
+- 2 – **Virus** (corto 91) - razflick 
+- 3 - **Je me Souviens Encore** | remake 2ª edicion (corto 117) - Ugly Doll 
+- 4 - **Qui sent musica** (corto 60) - Marina Rueda
+- 5 – **Agua negra** (corto 154) – Oscar P
+- 6 - **Protestas: Una historia** (corto 75) - NFOP Producciones
+- 7 - **10062022Burgo** (corto 73) - Andrés Torrejón Páfila
+- 8 - **Infinity Projections** (corto 79) - Lorenzo Vasek
+- 9 – **Nota roja** (corto 158) - Lo Pascalo Films
+- 10 – **Pequeños negocios** (corto 129) - Daniel Regidor 
+- 11 - **Yace en el lugar de la luz** (corto 1) - ayrton mallma
+- 12 – **U** (corto 15) - Alejo Malia
+
 ### Cortos
 
 (Los enlaces llevan al canal de Discord "Chat sin micro")
