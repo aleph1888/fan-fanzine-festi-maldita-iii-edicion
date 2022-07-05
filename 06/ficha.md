@@ -156,7 +156,7 @@ baxerri1: "*ya suficiente bela tarr que le den el premio y a otra cosa*";
 CarloselSocio: "*Pues, está bonito*";  
 elmaecr2: "*creo que quiere transmitir paz, serenidad...*";  
 jorgericardo2004: "*la bruja de blair pero sin bruja, y sin miedo y sin nada*";  
-avradox: "*bueno el perro es lo unico bueno en este corto*";  
+avradox: "*bueno el perro es lo unico bueno en este corto*"  
 .  
 .  
 - ![](12.png)  
