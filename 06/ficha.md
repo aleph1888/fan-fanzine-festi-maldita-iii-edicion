@@ -87,7 +87,7 @@ marvin90kp: "*Oye fe0 exista un premio "Sam Peckingpack" a mejor corto ultraviol
 DaniBoube: "*¡Pura violencia! Que lo contraten para una peli de Lego +18*";  
 heartofthewoods: "*La narrativa está logradísima para estar el corto hecho con lego*";  
 elgatodeeris: "*calidad y muy buen sonido*";  
-Rebel Soul Tech: "Es flipanteee*";  
+Rebel Soul Tech: "*Es flipanteee*";  
 bernaaaaaaaaaaaaaaa: "*me quede con ganas de mas*";  
 ElPorreteSabrosetee: "*Legolución*";  
 Kenia: "*Muy currao!*";  
