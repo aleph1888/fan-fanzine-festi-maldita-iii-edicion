@@ -200,7 +200,7 @@ titokrause: "*textos poéticos y salvajes a la vez*";
 alvarutiscg: "*parece un corto que veria en los videos del feo*";  
 juandoge29: "*auuuuuu*";  
 Fhauster: "*Temroc version junggle heavy*";  
-Rosti_Pollo: "*Es un corto para verlo unas 5 veces, difícil procesar todo de una vez"  
+Rosti_Pollo: "*Es un corto para verlo unas 5 veces, difícil procesar todo de una vez*"  
 .  
 .  
 - ![](11.png)  
