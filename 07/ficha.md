@@ -5,17 +5,17 @@ SITIO FANTEAM NO OFICIAL
 ## Dia 7 06/07/2022 (Preguntas Incómodas)
 ![](dia.png)
 
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
+- 1.    [77] **Clarividencia** - Luis David Monfil González
+- 2.    [83] **Ratametraje** - Satán Orbis
+- 3.    [78] **Noche23** - Alex Moncayo
+- 4.    [38] **La solitudine é una cosa bruta** - Ambra Dell´Aversano
+- 5.    [13] **Limbo** -  Rasec Depablos
+- 6.    [36] **Rojo y Azul** - Strange Realities
+- 7.    [23] **El otro choque** - J.E Antonioni 
+- 8.    [26] **Curvilinea** - Manuel Tell
+- 9.    [147] **Elvia** - Fernanda Salinas 
+- 10.    [30] **Animal definitivo** - Rafael Arévalo 
+- 11.    [32] **La amistad** - Juan Pronko
 
 
 ### Cortos
