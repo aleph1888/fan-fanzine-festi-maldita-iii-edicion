@@ -12,6 +12,7 @@ En esta web tienes un resumen de los cortos proyectados.
 - [Dia 5 04/07/2022 (Rottenmind + Yoshimichu)](05/ficha.md)
 - [Dia 6 05/07/2022 (DaniBoubeTv + Kenia)](06/ficha.md)
 - [Dia 7 06/07/2022 (Preguntas Incómodas)](07/ficha.md)
+- [Dia 8 07/07/2022 (Mireda Prod. + Bonfire Tales)](08/ficha.md)
 
 # Categorías de premios
 
