@@ -5,17 +5,16 @@ SITIO FANTEAM NO OFICIAL
 ## Dia 8 07/07/2022 (Mireda Prod. + Bonfire Tales)
 ![](dia.png)
 
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
+- 1 [27] **Van por nosotros** - Acción DeMente
+- 2 [103] **Argos II** - RKIV
+- 3 [163] **Hematemesis** - Villanueva Rangel Jesus Orlando
+- 4 [46] **Skate dog** - Luis David Cadena Domínguez
+- 5 [24] **Trajecte Últim** - Romà Cusí Moreno 
+- 6 [56] **Sin contexto** - Leslie Foster
+- 7 [159] **Elige el Psistema de salud mental** – Acción DeMente
+- 8 [43] **La muerte colgada** - Sol Dominguez
+- 9 [120] **A la muerte le encanta Shakira**  – Agustín Araya
+- 10 [39] **Smile & Shine** - Javier Madrigal
 
 
 ### Cortos
