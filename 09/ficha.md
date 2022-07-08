@@ -5,17 +5,16 @@ SITIO FANTEAM NO OFICIAL
 ## Dia 9 08/07/2022 (Maxi Contenti)
 ![](dia.png)
 
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
+- 1 [34] **No te enamores de ella** - Mario Ivan Avila Romero
+- 2 [70] **Viral** -  Ika Gozrodze
+- 3 [76] **PaZientes** - Bruno Bellas Mored
+- 4 **Poema de glasha ven y mira**
+- 5 **Legado**
+- 6 [28] **Los Origenes de Palo Alzado** - Strange Realities
+- 7 [44] **En espera (Basado en Hechos reales)** - IGNACIO HERNAEZ SANMARTÍN
+- 8 [80] **La Cosa Nostra** - Ale Arroyo
+- 9 [82] **Riégame** - Devoz al Alba
+- 10 [29] **Short** - Julián Vanegas
 
 
 ### Cortos
