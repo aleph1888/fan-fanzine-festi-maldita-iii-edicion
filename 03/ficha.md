@@ -24,7 +24,7 @@ SITIO FANTEAM NO OFICIAL
 
 
 - ![](01.png)  
-[03/01](https://discord.com/channels/739208143523020841/769436011981570068/992886982680252507)  
+[03/01](https://discord.com/channels/739208143523020841/769436011981570068/992886982680252507) / [Ver corto](https://discord.com/channels/739208143523020841/993297131387506699/993318469615489084)  
 guerrerobravo777: "*Pon el corto "Backwards" para entender el mensaje subliminal..."*;  
 edvardo_96: "*pues no entendí, pero visualmente me gustó 7/10*";  
 luis_e_mano [autor]: "*está en el infierno y al final se da cuenta que su vida no es nada; es un poema que cree para un momento tan malo que me pasó"*;  
@@ -62,7 +62,7 @@ esquizoide0: "*Me sé la referencia pero no veo el sentido a hacer un remake de 
 .  
 .  
 - ![](06.png)  
-[03/06](https://discord.com/channels/739208143523020841/769436011981570068/992901664845602827)  
+[03/06](https://discord.com/channels/739208143523020841/769436011981570068/992901664845602827) [Ver Corto](https://www.youtube.com/watch?v=4dvO6yV-fXQ)  
 KidPochoclo: "*Simón Radowitzky fue un militante obrero anarquista ucranio-argentino de origen judío. Fue conocido por el atentado con bomba que mató al jefe de policía Ramón Lorenzo Falcón, responsable de la brutal represión de la semana roja de 1909 en Buenos Aires.*";  
 vidalhoaxer: "*Dice tanto con tan poco*";  
 guerrerobravo777: "*Te pasa la vida en un segundo... una vida de opresión y de lucha*";  

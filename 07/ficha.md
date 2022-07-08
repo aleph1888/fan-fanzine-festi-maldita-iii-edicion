@@ -115,7 +115,7 @@ ede_kelgar: "*6/10 me gustan todos los cortos que hagan crítica a la violencia 
 .  
 .  
 - ![](07.png)  
-[07/07]()  
+[07/07](https://discord.com/channels/739208143523020841/769436011981570068/994346450630758480)/[Ver Corto](https://www.youtube.com/watch?v=KzwpCTpLe8U)  
 RelatosColapsistas: "*empieza bien la animacion, buen ritmo*";  
 scoutconfiebre: "*Tokyo ghul*";  
 charlie_is_omega: "*Joder, me ha encantado*";  

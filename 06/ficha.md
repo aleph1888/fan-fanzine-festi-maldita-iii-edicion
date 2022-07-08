@@ -80,7 +80,7 @@ Feo: "*Me ha parecido genial la mezcla de técnicas*"
 .  
 
 - ![](06.png)  
-[06/06](https://discord.com/channels/739208143523020841/769436011981570068/993982049251774515)  
+[06/06](https://discord.com/channels/739208143523020841/769436011981570068/993982049251774515) / [Ver Corto](https://www.youtube.com/watch?v=ccquv7V-kkU)  
 vidalhoaxer: "*Cuanto tiempo le tomo hacer eso?*";  
 serrato_0: "*carta de amor a la ultraviolencia*";  
 marvin90kp: "*Oye fe0 exista un premio "Sam Peckingpack" a mejor corto ultraviolento*";  
