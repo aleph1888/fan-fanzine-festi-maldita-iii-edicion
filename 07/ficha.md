@@ -37,7 +37,7 @@ estudiomeztli [autor]: "*muchas gracias por sus comentarios se los agradezco*"
 .  
 .  
 - ![](02.png)  
-[07/02](https://discord.com/channels/739208143523020841/769436011981570068/994339356531773500)  
+[07/02](https://discord.com/channels/739208143523020841/769436011981570068/994339356531773500>  
 satiavan: "*Buenaza la musica eh*";  
 AlexWerden: "*¿seguro q no es musica de algun lugar? es muy buena*";  
 andrevesaliusmd: "*Joy Division, justamente esa cancion habla de la cuarentena*";  

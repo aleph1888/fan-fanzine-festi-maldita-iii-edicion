@@ -48,7 +48,7 @@ SITIO FANTEAM NO OFICIAL
 .  
 - ![](09.png)  
 ![](09a.png)  
-[02/09](https://discord.com/channels/739208143523020841/769436011981570068/992541089103872100) Un slasher con buenas intenciones...
+[02/09](https://discord.com/channels/739208143523020841/769436011981570068/992541089103872100> Un slasher con buenas intenciones...
 .  
 .  
 - ![](10.png)  

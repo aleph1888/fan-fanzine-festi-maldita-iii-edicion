@@ -162,7 +162,7 @@ Mireda: "*Hoy la temática ha sido perros y salud mental... buena idea pero un p
 .  
 .  
 - ![](10.png)  
-[08/10](https://discord.com/channels/739208143523020841/769436011981570068/994718277253222500)  
+[08/10](https://discord.com/channels/739208143523020841/769436011981570068/994718277253222500>  
 jorgericardo2004: "*mi bebito fiu fiu*";  
 lisandroof: "*es que me derrito de la ternura*";  
 donatiens: "*arriba los pumas!!*";  
