@@ -4,17 +4,17 @@ SITIO FANTEAM NO OFICIAL
 
 ## Dia 10 09/07/2022 (LulaBeeLula)
 <img src="../dias/dia10.jpeg" width="500">   .
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
+- 1 (134) - **Dentro de la casa**, Vicente Cocali  
+- 2 (84) - **Buscando la Inspiración**, Alejandro Ávila  
+- 3 (7) - **Saudade**, Gabriel Silva  
+- 4 (8) - **Fe**, Amadeo Mesa  
+- 5 (133) - **Paranmesia**, Oswaldo Carrillo  
+- 6 (47) - **El Ejemplo está en Casa**, Gabo Rojo  
+- 7 (48) - **M_Y_O_P_Y_A**, Félix Moreno  
+- 8 (116) - **Duat**, Proyecto Amateur  
+- 9 (54) - **Mascaras**, Brian Steve  
+- 10 (137) - **Dinosaurio**, Lewis Flower   
+- 11 (59) - **El Cine es nuestro, A veces**, El Gato de Eriz 
 
 
 ### Cortos
