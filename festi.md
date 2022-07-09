@@ -23,7 +23,8 @@ En esta web tienes un resumen de los cortos proyectados.
 [Dia 8 07/07/2022 (Mireda Prod. + Bonfire Tales)](08/ficha.md)  
 - <img src="dias/dia09.jpeg" width="250">  
 [Dia 9 08/07/2022 (Maxi Contenti)](09/ficha.md)  
-
+- <img src="dias/dia10.jpeg" width="250">  
+[Dia 10 09/07/2022 (LulaBeeLula)](10/ficha.md)  
 # Categorías de premios
 
 ![](premios01.png)  

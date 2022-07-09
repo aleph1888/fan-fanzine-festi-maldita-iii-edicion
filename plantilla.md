@@ -3,8 +3,7 @@ SITIO FANTEAM NO OFICIAL
 [Volver al índice](../festi.md)
 
 ## Dia x xx/07/2022 (xxx)
-![](dia.png)
-
+<img src="../dias/diaXX.jpeg" width="500">   
 -   
 -   
 -   
@@ -63,5 +62,5 @@ SITIO FANTEAM NO OFICIAL
 [0x/10]()  
 .  
 .  
-
+![](dia.png)  
 [Volver al índice](../festi.md)
