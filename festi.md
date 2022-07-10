@@ -25,6 +25,8 @@ En esta web tienes un resumen de los cortos proyectados.
 [Dia 9 08/07/2022 (Maxi Contenti)](09/ficha.md)  
 - <img src="dias/dia10.jpeg" width="250">  
 [Dia 10 09/07/2022 (LulaBeeLula)](10/ficha.md)  
+- <img src="dias/dia11.jpeg" width="250">  
+[Dia 11 10/07/2022 (Matias Parkman)](11/ficha.md)  
 # Categorías de premios
 
 ![](premios01.png)  
