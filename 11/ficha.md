@@ -2,19 +2,19 @@
 SITIO FANTEAM NO OFICIAL  
 [Volver al índice](../festi.md)
 
-## Dia 11 10/07/2022 (Matias Parkman
+## Dia 11 10/07/2022 (Matias Parkman)
 <img src="../dias/dia11.jpeg" width="500">   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
+
+- 1.    [3] **Perro negro** - Robinson Castañeda  
+- 2.    [121] **Super estallido social** – Agustín Araya  
+- 3.    [86] **Sonidos y trincheras** – Jorge Ricardo  
+- 4.    [149] **Herida** - Josué Sanabria  
+- 5.    [51] **Pasillo**- Ángel D. Hurtado  
+- 6.    [124] **El nombre viene en la descripcion** - JUAN IGNACIO Irusta  
+- 7.    [53] **Oblivion** - JL Cabrera  
+- 8.    [141] **B.R.E.A.K.F.A.S.T.** - Alvarutis Romero  
+- 9.    [4] **YouTube en 2015** - Arley Rojas   
+- 10.    [125] **Impulso** - Levi FLowers y Astru rex  
 
 
 ### Cortos
